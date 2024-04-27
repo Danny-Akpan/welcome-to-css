@@ -1,0 +1,6 @@
+27th April
+
+-Cloning repo using git clone
+-create a new contact page
+
+-Create a contact.html and a contact.css
