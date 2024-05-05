@@ -10,7 +10,7 @@
 
 Assignment
 -Create html and css files for, about page,portfolio page and services page
--add the href links to the li in the nave to link to each of these pages
+-add the href links to the li in the nav to link to each of these pages
 - each page should have the same nav
 -push code to github
 (Done)
@@ -19,3 +19,11 @@ Assignment
 ADDING FONTS
 - fonts.google.com
 -select fonts you like and click embed code
+
+Assignment
+-Work on about page
+-style to look nice
+-Use both fonts provided.(check style.css on how to use font)
+-Use contact as a guide to work on about
+
+NOTE: I WILL CHECK YOUR GITHUB EVERYDAY FOR UPDATES
