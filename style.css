@@ -5,27 +5,38 @@ nav{
 background-color: black;
 height: 10vh;
 padding: 1em;
-color: white;
+font-family: "Oswald", sans-serif;
+font-optical-sizing: auto;
+font-weight: 300;
+
 
 
 }
+
+a{
+    color: #A07F5D;
+    text-decoration: none;
+}
+
+.nav-link{
+    color: #A07F5D;
+    text-decoration: none;
+}
+
+
 ul{
     display: flex;
     gap: 1em;
 list-style-type: none;
 
 }
-.nav-link{
-color: white;
-text-decoration: none;
 
-}
 *{
     padding: 0;
     margin: 0;
 }
 .hero{
-    
+    background-color: #A07F5D;
     display: flex;
     justify-content: center;
     align-items: center;
@@ -37,8 +48,8 @@ text-align: center;
 
 }
 .contact{
-background-color: white;
-border: white 1px solid;
+background-color: #A07F5D;
+border: #A07F5D 1px solid;
 color: black;
 text-decoration: none;
 
@@ -46,20 +57,32 @@ padding: 1rem;
 }
 .contact:hover{
 background-color: black;
-color: white;
+color: #A07F5D;
 }
 .buttons{
-    
-    height: 100px;
+    padding-top: 2em;
 }
-.buttons button{
+.button-a{
     background-color: white;
-    border:  red 1px solid;
+    border:  #A07F5D 1px solid;
     padding: 1rem;
+    margin-top: 1em;
+    font-family: "Oswald", sans-serif;
+font-optical-sizing: auto;
+font-weight: 300;
 }
-.buttons button:hover{
-    background-color: red;
+.button-a:hover{
+    background-color: #A07F5D;
+    color: black;
 
+}
+
+
+.hero h1{
+    font-family: "Sedan SC", serif;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 5rem;
 }
 
 
