@@ -9,7 +9,7 @@
 -create and style contact page
 
 Assignment
--Create html and css files for, about page, portfolio page and services page
+-Create html and css files for, about page,portfolio page and services page
 -add the href links to the li in the nave to link to each of these pages
 - each page should have the same nav
 -push code to github

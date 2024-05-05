@@ -1,0 +1,11 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+
+.About-section{
+    height: 90vh;
+    width: 100vw;
+    display: flex;
+    align-items: center;
+}
